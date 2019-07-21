@@ -14,10 +14,14 @@ _I have used MySQL 5.7 which can downloaded from [here](https://dev.mysql.com/do
 
 Used jQuery, for backend.
 
-###Nodejs must be installed###
+###Nodejs must be installed
+
 To install Sequelize, MySQL and Express you need to run:
 
 ```npm init``` for initialzing
+
 ```npm i express``` for installing express into folder
+
 ```npm i mysql2```  for installing mysql
+
 ```npm i sequelize``` for installing sequelize
